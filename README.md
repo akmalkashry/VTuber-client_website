@@ -39,8 +39,5 @@ This project is built using vanilla web standards with no external frameworks, k
 ---
 
 ## ⚠️ Intellectual Property & Usage Warning
-
-* **Code & Design:** All source code, layouts, and custom animations within this repository are the intellectual property of the developer. **Unauthorized copying, distribution, or reproduction of this code is strictly prohibited.**
 * **VTuber Assets:** All graphics, artwork, character designs, and audio files belong exclusively to **Momoleia** and **Krisen Mirai** (and their respective artists). 
-
-> 🔴 **Notice:** You are strictly forbidden from taking, ripping, or modifying any assets or code from this project for personal or commercial use. Any unauthorized usage will be met with immediate copyright enforcement and legal action
+> 🔴 **Notice:** You are strictly forbidden from taking, ripping, or modifying any assets from this project for personal or commercial use. Any unauthorized usage will be met with immediate copyright enforcement and legal action
